@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLTP">
+  <DataContextMoniker Name="/QLTPDataContext" />
+  <nestedChildShapes>
+    <classShape Id="268b7717-d130-423a-841c-9ec1f953870f" absoluteBounds="0.75, 1, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/QLTPDataContext/Khach" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2da6e380-d388-405e-a59b-6fceb3b912e7" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1116dc25-6489-4b4a-8bbb-14b6396f4197" absoluteBounds="0.75, 4, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/QLTPDataContext/Phong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8c9bbb9c-85bb-4089-939a-e877e963f232" absoluteBounds="0.765, 4.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="edd24f39-e250-487d-a25b-a40a99722f4f" absoluteBounds="3.5, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QLTPDataContext/ThueP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b76b2bb8-87b1-46f5-a101-8e62ca277391" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ed2fc5cc-a6d3-49a1-9bb5-84c5224a71e3" absoluteBounds="3.75, 3.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/QLTPDataContext/Taikhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2d98c002-8721-4b4d-8996-9c9184f8a99d" absoluteBounds="3.765, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.88544840494792); (3.5 : 1.88544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLTPDataContext/Khach/Khach_ThueP" />
+      <nodes>
+        <classShapeMoniker Id="268b7717-d130-423a-841c-9ec1f953870f" />
+        <classShapeMoniker Id="edd24f39-e250-487d-a25b-a40a99722f4f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.48484537760417); (3.59375 : 5.48484537760417); (3.59375 : 2.8381982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLTPDataContext/Phong/Phong_ThueP" />
+      <nodes>
+        <classShapeMoniker Id="1116dc25-6489-4b4a-8bbb-14b6396f4197" />
+        <classShapeMoniker Id="edd24f39-e250-487d-a25b-a40a99722f4f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

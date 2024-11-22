@@ -1,0 +1,53 @@
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.exe.config
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.exe
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.pdb
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Debug\Microsoft.CSharp.dll
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Debug\System.Data.Linq.dll
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Debug\System.Web.dll
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Debug\System.Windows.Forms.dll
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Debug\System.Xml.dll
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Debug\System.Xml.Linq.dll
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Cu Thi Phuong Thao - Bao cao cong nghe phan mem.csprojAssemblyReference.cache
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.MDI.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Dichvu.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Phong.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Taikhoan.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_ThuePhong.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Traphong.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.SudungDV.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.Thongtin.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.TimkiemKhach.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.TimkiemPhong.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Khach.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.Properties.Resources.resources
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Cu Thi Phuong Thao - Bao cao cong nghe phan mem.csproj.GenerateResource.cache
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Cu Thi Phuong Thao - Bao cao cong nghe phan mem.csproj.CopyComplete
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.exe
+D:\NAM BA\Cong nghe phan mem\QuanLyThuePhongKhachSan\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.pdb
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\bin\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.exe.config
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\bin\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.exe
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\bin\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.pdb
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\bin\Debug\Microsoft.CSharp.dll
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\bin\Debug\System.Data.Linq.dll
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\bin\Debug\System.Web.dll
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\bin\Debug\System.Windows.Forms.dll
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\bin\Debug\System.Xml.dll
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\bin\Debug\System.Xml.Linq.dll
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Cu Thi Phuong Thao - Bao cao cong nghe phan mem.csprojAssemblyReference.cache
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.MDI.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Dichvu.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Phong.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Taikhoan.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_ThuePhong.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Traphong.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.SudungDV.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.Thongtin.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.TimkiemKhach.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.TimkiemPhong.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Khach.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.Properties.Resources.resources
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Cu Thi Phuong Thao - Bao cao cong nghe phan mem.csproj.GenerateResource.cache
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Cu Thi Phuong Thao - Bao cao cong nghe phan mem.csproj.CoreCompileInputs.cache
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Cu Thi Phuong Thao - Bao cao cong nghe phan mem.csproj.CopyComplete
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.exe
+C:\1hoc\kiemthu\drive-download-20221104T031358Z-001\Cu Thi Phuong Thao - Bao cao\obj\x86\Debug\Hoang Duc Hung - Do an ki thuat lap trinh.pdb

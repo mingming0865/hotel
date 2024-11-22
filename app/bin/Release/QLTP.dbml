@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLTP" Class="QLTPDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=HOANGHUNG\HUNG;Initial Catalog=QLTP;Integrated Security=True" SettingsObjectName="Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.Properties.Settings" SettingsPropertyName="QLTPConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Khach" Member="Khaches">
+    <Type Name="Khach">
+      <Column Name="CMT" Type="System.String" DbType="NVarChar(12) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Hoten" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Diachi" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="GT" Type="System.String" DbType="NVarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="SDT" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Association Name="Khach_ThueP" Member="ThuePs" ThisKey="CMT" OtherKey="CMT" Type="ThueP" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Phong" Member="Phongs">
+    <Type Name="Phong">
+      <Column Name="MaP" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenP" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="LoaiP" Type="System.String" DbType="NVarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="GiaP" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Tinhtrang" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Association Name="Phong_ThueP" Member="ThuePs" ThisKey="MaP" OtherKey="MaP" Type="ThueP" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThueP" Member="ThuePs">
+    <Type Name="ThueP">
+      <Column Name="MaHD" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CMT" Type="System.String" DbType="NVarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="MaP" Type="System.String" DbType="NVarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="Ngayden" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Ngaydi" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TenNV" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Association Name="Khach_ThueP" Member="Khach" ThisKey="CMT" OtherKey="CMT" Type="Khach" IsForeignKey="true" />
+      <Association Name="Phong_ThueP" Member="Phong" ThisKey="MaP" OtherKey="MaP" Type="Phong" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Taikhoan" Member="Taikhoans">
+    <Type Name="Taikhoan">
+      <Column Name="Acc" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Pass" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TenND" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

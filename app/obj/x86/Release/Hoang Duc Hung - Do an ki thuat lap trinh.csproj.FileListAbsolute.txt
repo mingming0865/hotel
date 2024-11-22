@@ -1,0 +1,31 @@
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\Hoang Duc Hung - Do an ki thuat lap trinh.exe.config
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\Hoang Duc Hung - Do an ki thuat lap trinh.exe
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\Hoang Duc Hung - Do an ki thuat lap trinh.pdb
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.MDI.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Phong.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Taikhoan.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_ThuePhong.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Traphong.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.Thongtin.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.TimkiemKhach.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.TimkiemPhong.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.QL_Khach.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang_Duc_Hung___Do_an_ki_thuat_lap_trinh.Properties.Resources.resources
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang Duc Hung - Do an ki thuat lap trinh.csproj.GenerateResource.Cache
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang Duc Hung - Do an ki thuat lap trinh.exe
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang Duc Hung - Do an ki thuat lap trinh.pdb
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\QLTP.designer.cs
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\QLTP.dbml.layout
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\QLTP.dbml
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\obj\x86\Release\Hoang Duc Hung - Do an ki thuat lap trinh.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\FlashControlV71.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\Microsoft.CSharp.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\System.Data.Linq.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\System.Web.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\System.Windows.Forms.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\System.Xml.dll
+C:\Users\Hoang Hung\Documents\Visual Studio 2010\Projects\Hoang Duc Hung - Do an ki thuat lap trinh\Hoang Duc Hung - Do an ki thuat lap trinh\bin\Release\System.Xml.Linq.dll
